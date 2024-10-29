@@ -1,0 +1,3 @@
+C:/Users/aashi/OneDrive/Desktop/D-drive/KadduDB/build/CMakeFiles/dbms.dir
+C:/Users/aashi/OneDrive/Desktop/D-drive/KadduDB/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/aashi/OneDrive/Desktop/D-drive/KadduDB/build/CMakeFiles/ZERO_CHECK.dir

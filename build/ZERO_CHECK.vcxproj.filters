@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\aashi\OneDrive\Desktop\D-drive\KadduDB\build\CMakeFiles\ed659571b355185a2dc386c75e785af2\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{514E022C-4535-3174-B7F4-0E070685DAE4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
